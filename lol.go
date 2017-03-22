@@ -1,1 +1,0 @@
-fmt.Println('hello world')
